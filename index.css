@@ -1,0 +1,13 @@
+body {background:lightgrey
+         }
+header {background: white
+        }
+
+#post {background: white;}
+
+header h1 {margin: 0;
+}
+#container {
+    width: 600px;
+    margin: auto
+}
